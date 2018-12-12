@@ -1,3 +1,4 @@
+FILESEXTRAPATHS_prepend := "${THISDIR}/files:"
 SRC_URI += "git://github.com/tomas73/wattmeter.git;protocol=https;"
 
 SRCREV = "${AUTOREV}"
