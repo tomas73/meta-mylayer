@@ -19,6 +19,8 @@ APACHE_POWER_STUFF = " \
 LIGHTTPD_POWER_STUFF = " \
 		     lighttpd \
 		     lighttpd-module-fastcgi \
+		     php \
+		     php-cgi \
 "
 
 
