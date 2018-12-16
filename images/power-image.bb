@@ -29,6 +29,7 @@ MY_POWER_STUFF = " \
 	    kernel-module-wattmeter \
 	    power \
 	    cs-update-client \
+	    cs-update-server \
 "
 
 IMAGE_INSTALL += " \
