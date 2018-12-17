@@ -11,7 +11,7 @@
 
 case "$1" in
     start|"")
-	/usr/bin/cs-update-server &>/tmp/cs-server.log
+	/usr/bin/cs-update-server
 	;;
     *)
 	echo "Usage: cs-update-server.sh start" >&2
